@@ -28,6 +28,8 @@ https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/
 
 ![image](https://github.com/user-attachments/assets/b6aeb1be-d956-470e-85d1-0ddc117fd0d3)
 
-Amostras de imagens utilizadas https://www.microsoft.com/en-us/download/details.aspx?id=54765 (Usei apenas uma porção para não demorar)
+Amostras de imagens utilizadas https://www.microsoft.com/en-us/download/details.aspx?id=54765 
+
+(Usei uma porção menor para não demorar muito)
 
 * **Vá em Train para executar o treinamento** (Utilizei o Quick Train)
