@@ -15,7 +15,6 @@ https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/
 
 # Treinamento
 
-
 * **Acesse o portal Custom Vision**
 
 ![image](https://github.com/user-attachments/assets/3c200bd2-f8ac-43f2-a7d1-a64ea4ac6988)
@@ -32,3 +31,12 @@ Amostras de imagens utilizadas https://www.microsoft.com/en-us/download/details.
 (Usei uma porção menor para não demorar muito)
 
 * **Vá em Train para executar o treinamento** (Utilizei o Quick Train)
+---
+---
+
+# Testes
+
+* **Vá em Quick Test e adicione uma imagem para testar**
+
+![image](https://github.com/user-attachments/assets/4ffa4b75-e1c4-41c4-a2d0-02621b8835bf)
+
