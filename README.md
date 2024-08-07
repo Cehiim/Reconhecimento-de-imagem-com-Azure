@@ -1,3 +1,11 @@
+# Introdução
+
+O Azure AI Custom Vision é um serviço de reconhecimento de imagem que permite criar, aperfeiçoar e testar modelos de identificador de imagem. O serviço possui diversos domínios que otimizam o processo de reconhecimento de imagem, o que pode melhorar a precisão e a eficiência do modelo.
+
+Os tipos de modelos disponíveis são de:
+* Classificação: atribui um ou mais rótulos para uma imagem de entrada.
+* Detecção de objeto: Acha a localização de um ou mais conteúdos dentro de uma imagem de entrada.
+
 # Setup
 
 * **Crie uma conta Azure**
